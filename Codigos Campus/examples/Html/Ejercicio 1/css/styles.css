@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    background:rgb(230, 61, 61);
+}
+.nav{
+    font-size: 30px;
+    text-align:center;
+    background: burlywood;
+}
+.container{
+    display:grid;
+    grid-template-columns: 80% 20%;
+
+}
+.articulo{
+    background: rgb(140, 192, 235);
+    width: auto;
+    height: 700px;
+    font-size: 100px;
+    text-align: center;
+}
+.barra{
+    background: blanchedalmond;
+    width: auto;
+    font-size: 80px;
+    text-align: center;
+}
+.piedepagina{
+    background: rgb(187, 240, 187);
+    height:auto;
+    font-size:55px;
+    text-align: center;
+}

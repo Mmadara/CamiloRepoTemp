@@ -1,0 +1,64 @@
+{
+    "autostore": {
+        "auto": [
+            {
+                "marca": "Chevrolet",
+                "linea": "Beat",
+                "modelo": "2020",
+                "precio": "10000",
+                "equipamiento": [
+                    "Aire Acondicionado",
+                    "Vidrios Electricos 4 Puertas",
+                    "Rines de Lujo",
+                    "Luces Exploradoras"
+                ]
+            },
+            {
+                "marca": "Mazda",
+                "linea": "6",
+                "modelo": "2023",
+                "precio": "12000",
+                "equipamiento": "Full Equipo"
+            },
+            {
+                "marca": "Renault",
+                "linea": "Duster",
+                "modelo": "2022",
+                "precio": "9000",
+                "equipamiento": "Sin Equipamento Adicional"
+            },
+            {
+                "marca": "Chevrolet",
+                "linea": "Onix",
+                "modelo": "2023",
+                "precio": "12000",
+                "equipamiento": [
+                    "Aire Acondicionado",
+                    "Vidrios Electricos 4 Puertas",
+                    "Rines de Lujo",
+                    "Luces Exploradoras",
+                    "Sensores de Reversa",
+                    "Camara 360\u00ba"
+                ]
+            },
+            {
+                "marca": "Honda",
+                "linea": "s2000",
+                "modelo": "2001",
+                "precio": "20000",
+                "equipamiento": "Sin equipo adicional"
+            },
+            {
+                "marca": "Ford",
+                "linea": "Fiesta",
+                "modelo": "2020",
+                "precio": "7000",
+                "equipamiento": [
+                    "Aire acondicionado",
+                    "Rines de lujo",
+                    "Cerrojos electronicos"
+                ]
+            }
+        ]
+    }
+}

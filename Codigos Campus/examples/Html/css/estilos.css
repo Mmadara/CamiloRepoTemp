@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0
+}
+
+
+.grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 15px;
+    column-gap: 15px;
+    background: cadetblue;
+    padding: 10em;
+    
+}
+
+.grid-item{
+    background: darkgoldenrod;
+    border: 2px solid #65d4fd ;
+    font-size: 20px;
+    text-align: center;
+}
+
+.item1{
+    grid-row-start: 1;
+    grid-row-end: 5;
+}
